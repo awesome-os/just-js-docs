@@ -1,4 +1,5 @@
-
+> [!NOTE]
+> Consolidated into https://github.com/awesome-os/chromium-baseline/tree/main/components/just-js
 
 ## Quick Start (Windows / Linux / macOS)
 
